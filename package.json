@@ -1,10 +1,6 @@
 {
   "name": "react-in-rails-demo",
   "private": true,
-  "engines": {
-    "node": "^16.17.0",
-    "yarn": "~1.22.19"
-  },
   "dependencies": {
     "@babel/core": "^7.22.9",
     "@babel/plugin-syntax-jsx": "^7.22.5",
@@ -25,8 +21,8 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "5",
     "turbolinks": "^5.2.0",
-    "webpack": "^5.88.2",
-    "webpack-cli": "^5.1.4"
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
   },
   "version": "0.1.0",
   "devDependencies": {
